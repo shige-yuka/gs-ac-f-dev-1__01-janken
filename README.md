@@ -23,9 +23,9 @@ index.htmlをブラウザで開いてください。
 
 ## 参考サイト
 
-- 顔認証
+- 顔認識
   - https://github.com/auduno/clmtrackr
   - [表情認識で SNOW 的なアプリ](https://kkblab.com/make/javascript/face.html)
-- 音声認証
+- 音声認識
   - https://developer.mozilla.org/ja/docs/Web/API/Web_Speech_API
   - [音声認識入門！Web Speech APIを使いChromeブラウザを音声操作するWebアプリ開発術を公開！](https://paiza.hatenablog.com/entry/2016/07/05/%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98%E5%85%A5%E9%96%80%EF%BC%81Web_Speech_API%E3%82%92%E4%BD%BF%E3%81%84Chrome%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%82%92%E9%9F%B3%E5%A3%B0%E6%93%8D%E4%BD%9C%E3%81%99)
